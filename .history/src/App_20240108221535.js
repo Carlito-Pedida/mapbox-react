@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{ textAlign: "center" }}>
       <ReactMap />
-      {/* <MapComponent /> */}
+      <MapComponent />
     </div>
   );
 }

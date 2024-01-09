@@ -5,8 +5,8 @@ import MapComponent from "./Components/GeoLocator";
 function App() {
   return (
     <div style={{ textAlign: "center" }}>
-      <ReactMap />
-      {/* <MapComponent /> */}
+      {/* <ReactMap /> */}
+      <MapComponent />
     </div>
   );
 }
